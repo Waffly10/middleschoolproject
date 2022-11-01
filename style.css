@@ -1,0 +1,115 @@
+body {
+  background: gray;
+  width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+}
+ol{
+ color: floralwhite;
+}
+h1 {
+  font-weight: bold;
+  font-family: fantasy;
+  color: 	#f4a460;
+  text-align: center;
+}
+h2{
+  text-align: center; 
+}
+h3{
+ text-decoration: underline;
+  text-align: center;
+  font-size: 30px;
+}
+h4{
+  color: black;
+}
+h6{
+  font-size: 14px;
+  text-align: center;
+}
+img{
+ border-style: double; 
+}
+a{
+  color: white;
+  border-style: groove;
+  border-color: aliceblue;
+}
+p{
+ text-align: center; 
+}
+IMG.dab{
+  border-style: inset;
+  border-width: 10px;
+  margin-left: 145px;
+  
+}
+IMG.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: dotted;
+  border-color: beige;
+}
+H4.oof{
+   margin-left: 20px;
+  text-align: center;2
+}
+p.peoplep{
+  color: #020003;
+  margin-right: 450px;
+  
+}
+p.homep{
+  color: black;
+  text-align: center;
+  text-indent: 30px;
+  border-style: dashed;
+}
+.TRAILER{
+  margin-left: 25px;
+}
+.background{
+ color:antiquewhite; 
+}
+.alol{
+ background-color: white;
+  color: black;
+}
+.star{
+  margin-left: 30px;
+}
+.sum{
+  text-indent: 10px;  
+}
+.summy{
+  background-image: url(https://s3.amazonaws.com/ffe-ugc/intlportal2/dev-temp/en-US/__5a00f5065bfa0.jpg) ; 
+}
+div.background {
+  background: url(klematis.jpg) repeat;
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+.asum{
+ background-color: white;
+  color: black;
+  margin-left: 250px;
+  margin-right: 150px;
+  border-style: solid;
+}
+.summ{
+ color: black; 
+}
